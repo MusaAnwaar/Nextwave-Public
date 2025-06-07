@@ -1,6 +1,8 @@
 # Nextwave-Public
 Techstars Build Challenge - Uncovering the hidden founder talent scattered across Australia. Founders flying under the radar - heads down, building something incredible. That’s exactly who we're looking for. Nextwave is a searchable database to spotlight under-the-radar founders doing amazing work.
 
+# Website link: https://nextwave-app-td2iu.ondigitalocean.app/
+
 # Problem Statement
 Unlocking Untapped Potential: Australia's startup ecosystem is full with promising early-stage founders, especially those from underrepresented backgrounds or outside traditional networks, who often remain undiscovered by investors, mentors, and strategic partners. This lack of visibility leads to missed opportunities for growth, limits the diversity of funded ventures, and ultimately slows the overall innovation landscape in Australia. 
 
