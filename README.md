@@ -16,3 +16,5 @@ Our solution provides:
 2. Dynamic Data Sources: Data that speaks volumes; upto 4000+ profiles extracted by leveraging LinkedIn, Crunchbase, Techboard, and more to find non-obvious talent.
 3. Diversity at the Forefront: Championing founders of all backgrounds, driving a more inclusive Australian startup ecosystem.
 4. In-depth Insights: Offering rich, validated founder profiles that go beyond surface-level information, providing a holistic view of their background, skills, funding experience, and current ventures.
+
+# Note - Our codebase is private, and this public repository serves the pupose of just showcasing the link to our live website, due to issues with the submission page not accepting the website link. 
